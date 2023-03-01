@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Onetree.RxLightning.SeniorTechInterview.Al3xCubillos.API", "Onetree.RxLightning.SeniorTechInterview.Al3xCubillos.API\Onetree.RxLightning.SeniorTechInterview.Al3xCubillos.API.csproj", "{C83A8C5F-B217-4182-A150-AD802441BA00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C83A8C5F-B217-4182-A150-AD802441BA00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C83A8C5F-B217-4182-A150-AD802441BA00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C83A8C5F-B217-4182-A150-AD802441BA00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C83A8C5F-B217-4182-A150-AD802441BA00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9127DE3-B8C0-451C-A04A-A4F0FB13D003}
+	EndGlobalSection
+EndGlobal

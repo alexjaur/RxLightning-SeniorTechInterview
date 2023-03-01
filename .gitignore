@@ -348,3 +348,8 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+
+# build app (SPA)
+/wwwroot
+Source/Onetree.RxLightning.SeniorTechInterview.Al3xCubillos.API/wwwroot/
